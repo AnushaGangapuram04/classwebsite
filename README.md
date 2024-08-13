@@ -55,7 +55,7 @@ A full-stack classroom management web application that allows principals, teache
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abhimanyu0018/classroom.git
+    git clone https://github.com/AnushaGangapuram04/classwebsite.git
     cd classroom/server
     ```
 
