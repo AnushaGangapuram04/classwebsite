@@ -10,8 +10,8 @@ A full-stack classroom management web application that allows principals, teache
 - [Installation](#installation)
 - [Usage](#usage)
 - [Live Demo](#live-demo)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Features
 
@@ -107,6 +107,3 @@ Check out the live version of the app [here](https://classroom-fawn.vercel.app).
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License.
